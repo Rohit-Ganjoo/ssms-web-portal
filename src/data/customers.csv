@@ -1,0 +1,338 @@
+customer_id,customer_email,customer_name,segment,postal_code,joining_date
+AA-10375,stern@verizon.net,Allen Armold,Consumer,30318,22-08-2017
+AA-10480,bancboy@icloud.com,Andrew Allen,Consumer,80027,15-02-2017
+AB-10060,dmouse@outlook.com,Adam Bellavance,Home Office,54302,16-04-2017
+AB-10165,atmarks@live.com,Alan Barnes,Consumer,73034,13-01-2017
+AC-10420,cvrcek@me.com,Alyssa Crouse,Corporate,19120,27-01-2017
+AD-10180,dcoppit@gmail.com,Alan Dominguez,Home Office,33614,29-01-2017
+AF-10885,louise@msn.com,Art Foster,Consumer,55016,27-09-2016
+AG-10495,dinther@outlook.com,Andrew Gjertsen,Corporate,60540,19-03-2017
+AG-10525,stern@verizon.net,Andy Gerbode,Corporate,55407,29-03-2017
+AG-10675,benits@msn.com,Anna Gayman,Consumer,73071,01-04-2017
+AG-10765,evans@me.com,Anthony Garverick,Home Office,33012,14-01-2017
+AG-10900,benits@msn.com,Arthur Gainer,Consumer,73034,02-02-2017
+AH-10195,bsikdar@msn.com,Alan Haines,Corporate,85705,22-03-2017
+AH-10210,shaffei@sbcglobal.net,Alan Hwang,Consumer,75220,24-04-2017
+AJ-10780,pgolle@mac.com,Anthony Jacobs,Corporate,77340,28-02-2017
+AJ-10795,msroth@me.com,Anthony Johnson,Corporate,78550,23-04-2017
+AJ-10945,world@att.net,Ashley Jarboe,Consumer,85705,16-06-2017
+AJ-10960,stern@verizon.net,Astrea Jones,Consumer,85705,29-01-2017
+AM-10360,louise@msn.com,Alice McCarthy,Corporate,10009,16-04-2017
+AP-10915,comdig@yahoo.com,Arthur Prichep,Consumer,28806,06-03-2017
+AR-10405,dbindel@gmail.com,Allen Rosenblatt,Corporate,32137,27-01-2017
+AR-10510,horrocks@verizon.net,Andrew Roberts,Consumer,92646,18-02-2017
+AR-10825,shaffei@sbcglobal.net,Anthony Rawles,Corporate,60610,25-05-2017
+AS-10135,bancboy@icloud.com,Adrian Shami,Home Office,90604,03-03-2017
+AS-10225,msroth@me.com,Alan Schoenberger,Corporate,44105,04-10-2016
+AS-10240,duncand@mac.com,Alan Shonely,Consumer,94109,09-02-2017
+AS-10285,wildfire@yahoo.com,Alejandro Savely,Corporate,54302,25-02-2017
+AT-10735,mastinfo@msn.com,Annie Thurman,Consumer,90604,08-04-2017
+BB-10990,dmouse@outlook.com,Barry Blumstein,Corporate,90036,15-01-2017
+BB-11545,dcoppit@gmail.com,Brenda Bowman,Corporate,28806,11-03-2017
+BD-11320,dinther@outlook.com,Bill Donatelli,Consumer,95123,07-05-2017
+BD-11500,shaffei@sbcglobal.net,Bradley Drucker,Consumer,71111,07-03-2017
+BD-11605,dmouse@outlook.com,Brian Dahlen,Consumer,27514,13-01-2017
+BD-11725,gordonjcp@comcast.net,Bruce Degenhardt,Consumer,90008,02-03-2017
+BE-11335,dawnsong@hotmail.com,Bill Eplett,Home Office,61604,07-02-2017
+BF-11020,tangsh@mac.com,Barry Französisch,Corporate,7601,04-02-2017
+BH-11710,mastinfo@msn.com,Brosina Hoffman,Consumer,92037,24-07-2017
+BK-11260,specprog@icloud.com,Berenike Kampe,Consumer,59405,08-07-2017
+BM-11140,ylchang@att.net,Becky Martin,Consumer,11572,02-10-2016
+BM-11650,atmarks@live.com,Brian Moss,Corporate,98198,03-08-2017
+BM-11785,mastinfo@msn.com,Bryan Mills,Consumer,98105,18-01-2017
+BN-11470,mastinfo@msn.com,Brad Norvell,Corporate,62301,04-05-2017
+BN-11515,ylchang@att.net,Bradley Nguyen,Consumer,10009,02-05-2017
+BP-11095,benits@msn.com,Bart Pistole,Corporate,48183,24-03-2017
+BP-11185,bancboy@icloud.com,Ben Peterman,Corporate,94521,06-03-2017
+BS-11590,dbindel@gmail.com,Brendan Sweed,Corporate,44312,25-03-2017
+BS-11755,evans@me.com,Bruce Stewart,Consumer,75220,22-02-2017
+BV-11245,bsikdar@msn.com,Benjamin Venier,Corporate,85635,19-02-2017
+BW-11110,atmarks@live.com,Bart Watters,Corporate,19805,17-06-2017
+CA-12265,cremonini@me.com,Christina Anderson,Consumer,90036,05-05-2017
+CA-12310,specprog@icloud.com,Christine Abelman,Corporate,43229,21-03-2017
+CA-12775,dcoppit@gmail.com,Cynthia Arntzen,Consumer,53132,27-05-2017
+CB-12025,shaffei@sbcglobal.net,Cassandra Brandow,Consumer,94521,01-03-2017
+CB-12535,bancboy@icloud.com,Claudia Bergmann,Corporate,85234,30-04-2017
+CC-12145,evans@me.com,Charles Crestani,Consumer,85023,16-03-2017
+CC-12430,pgolle@mac.com,Chuck Clark,Home Office,48307,25-02-2017
+CC-12550,dawnsong@hotmail.com,Clay Cheatham,Consumer,27217,17-03-2017
+CC-12670,atmarks@live.com,Craig Carreira,Consumer,95123,12-04-2017
+CD-11920,duncand@mac.com,Carlos Daly,Consumer,60505,03-02-2017
+CD-11980,pgolle@mac.com,Carol Darley,Consumer,21044,29-01-2017
+CG-12520,dawnsong@hotmail.com,Claire Gute,Consumer,38401,26-02-2017
+CJ-12010,pgolle@mac.com,Caroline Jumper,Consumer,33180,18-02-2017
+CK-12205,cremonini@me.com,Chloris Kastensmidt,Consumer,19901,22-02-2017
+CK-12325,payned@att.net,Christine Kargatis,Home Office,92024,29-05-2017
+CK-12595,horrocks@verizon.net,Clytie Kelty,Consumer,7109,23-02-2017
+CK-12760,world@att.net,Cyma Kinney,Corporate,98115,03-03-2017
+CL-12565,comdig@yahoo.com,Clay Ludtke,Consumer,53209,09-02-2017
+CM-12385,mhouston@optonline.net,Christopher Martinez,Consumer,78550,06-02-2017
+CM-12445,cremonini@me.com,Chuck Magee,Consumer,77070,08-04-2017
+CP-12340,cremonini@me.com,Christine Phan,Corporate,85705,05-02-2017
+CR-12625,mstrout@me.com,Corey Roper,Home Office,98105,20-01-2017
+CR-12730,stern@verizon.net,Craig Reiter,Consumer,48307,09-05-2017
+CS-11950,privcan@optonline.net,Carlos Soltero,Consumer,6040,04-06-2017
+CS-12130,world@att.net,Chad Sievert,Consumer,14609,09-01-2017
+CS-12250,cvrcek@me.com,Chris Selesnick,Corporate,72701,02-02-2017
+CS-12400,tangsh@mac.com,Christopher Schild,Home Office,92530,28-01-2017
+CV-12805,parrt@aol.com,Cynthia Voltz,Corporate,94591,08-02-2017
+CW-11905,dmouse@outlook.com,Carl Weiss,Home Office,90049,21-06-2017
+DB-13060,fhirsch@outlook.com,Dave Brooks,Consumer,10024,06-08-2017
+DB-13120,horrocks@verizon.net,David Bremer,Corporate,50315,11-01-2017
+DB-13210,atmarks@live.com,Dean Braden,Consumer,33012,16-02-2017
+DB-13615,carcus@me.com,Doug Bickford,Consumer,47150,13-01-2017
+DC-13285,ylchang@att.net,Debra Catini,Consumer,60462,24-01-2017
+DJ-13420,cremonini@me.com,Denny Joy,Corporate,85254,06-10-2016
+DJ-13510,dmouse@outlook.com,Don Jones,Corporate,33311,27-09-2016
+DJ-13630,cvrcek@me.com,Doug Jacobs,Consumer,17602,03-10-2016
+DK-12985,wildfire@yahoo.com,Darren Koutras,Consumer,48180,07-02-2017
+DK-13090,ylchang@att.net,Dave Kipp,Consumer,80219,06-05-2017
+DK-13150,tangsh@mac.com,David Kendrick,Corporate,92646,21-03-2017
+DK-13225,msroth@me.com,Dean Katz,Corporate,90805,08-02-2017
+DL-12865,leviathan@comcast.net,Dan Lawera,Consumer,13021,09-04-2017
+DL-13315,specprog@icloud.com,Delfina Latchford,Consumer,7601,03-03-2017
+Dl-13600,wildfire@yahoo.com,Dorris liebe,Corporate,30318,07-03-2017
+DO-13435,bancboy@icloud.com,Denny Ordway,Consumer,19140,13-02-2017
+DP-13000,unreal@live.com,Darren Powers,Consumer,1841,01-03-2017
+DP-13105,louise@msn.com,Dave Poirier,Corporate,6824,22-03-2017
+DP-13165,dmouse@outlook.com,David Philippe,Consumer,98198,03-02-2017
+DR-12880,fmerges@hotmail.com,Dan Reichenbach,Corporate,2886,25-04-2017
+DS-13030,duncand@mac.com,Darrin Sayre,Home Office,28205,28-05-2017
+DS-13180,benits@msn.com,David Smith,Corporate,90604,05-03-2017
+DV-13045,mastinfo@msn.com,Darrin Van Huff,Corporate,71203,26-01-2017
+DV-13465,miyop@comcast.net,Dianna Vittorini,Consumer,75080,24-09-2016
+DW-13480,bancboy@icloud.com,Dianna Wilson,Home Office,98115,30-05-2017
+DW-13585,msroth@me.com,Dorothy Wardle,Corporate,94521,28-09-2016
+EA-14035,dcoppit@gmail.com,Erin Ashbrook,Corporate,85635,26-05-2017
+EB-13705,dawnsong@hotmail.com,Ed Braxton,Corporate,55901,03-04-2017
+EB-13840,louise@msn.com,Ellis Ballard,Corporate,73071,27-02-2017
+EB-13870,geekgrl@comcast.net,Emily Burns,Consumer,19134,08-08-2017
+EG-13900,msroth@me.com,Emily Grady,Consumer,71203,17-01-2017
+EH-13945,fmerges@hotmail.com,Eric Hoffmann,Consumer,64055,24-01-2017
+EH-14125,privcan@optonline.net,Eugene Hildebrand,Home Office,92024,21-07-2017
+EL-13735,payned@att.net,Ed Ludwig,Home Office,85234,11-02-2017
+EM-13960,bsikdar@msn.com,Eric Murdock,Consumer,33180,18-03-2017
+EM-14065,gordonjcp@comcast.net,Erin Mull,Consumer,27514,14-06-2017
+EM-14095,cremonini@me.com,Eudokia Martin,Corporate,43017,28-04-2017
+EP-13915,louise@msn.com,Emily Phan,Consumer,60540,02-02-2017
+ER-13855,atmarks@live.com,Elpida Rittenbach,Corporate,32216,23-07-2017
+ES-14020,bancboy@icloud.com,Erica Smith,Consumer,2886,08-01-2017
+ES-14080,dawnsong@hotmail.com,Erin Smith,Corporate,48183,23-01-2017
+FA-14230,comdig@yahoo.com,Frank Atkinson,Corporate,45503,13-03-2017
+FH-14365,mhouston@optonline.net,Fred Hopkins,Corporate,48234,19-01-2017
+FM-14290,dbindel@gmail.com,Frank Merwin,Home Office,60462,20-04-2017
+FM-14380,pgolle@mac.com,Fred McMath,Consumer,71111,24-03-2017
+FP-14320,duncand@mac.com,Frank Preis,Consumer,60623,23-02-2017
+GA-14725,gordonjcp@comcast.net,Guy Armstrong,Consumer,10550,31-12-2016
+GB-14530,geekgrl@comcast.net,George Bell,Corporate,64118,01-04-2017
+GD-14590,specprog@icloud.com,Giulietta Dortch,Corporate,44312,07-10-2016
+GG-14650,unreal@live.com,Greg Guthrie,Corporate,6360,24-07-2017
+GH-14485,mastinfo@msn.com,Gene Hale,Corporate,43017,19-03-2017
+GK-14620,cremonini@me.com,Grace Kelly,Corporate,54302,05-10-2017
+GM-14440,privcan@optonline.net,Gary McGarr,Consumer,94122,11-03-2017
+GP-14740,unreal@live.com,Guy Phonely,Corporate,95051,02-10-2016
+GT-14635,dawnsong@hotmail.com,Grant Thornton,Corporate,48183,11-02-2017
+GT-14710,leviathan@comcast.net,Greg Tran,Consumer,22153,24-01-2017
+GT-14755,world@att.net,Guy Thornton,Consumer,55016,02-02-2017
+GZ-14470,geekgrl@comcast.net,Gary Zandusky,Consumer,48185,27-05-2017
+HA-14920,specprog@icloud.com,Helen Andreada,Consumer,98661,07-03-2017
+HK-14890,payned@att.net,Heather Kirkland,Corporate,80013,30-05-2017
+HL-15040,louise@msn.com,Hunter Lopez,Consumer,92530,14-05-2017
+HM-14980,msroth@me.com,Henry MacAllister,Consumer,62521,26-02-2017
+HP-14815,benits@msn.com,Harold Pawlan,Home Office,55122,24-06-2017
+HW-14935,privcan@optonline.net,Helen Wasserman,Corporate,44105,31-05-2017
+JB-15400,privcan@optonline.net,Jennifer Braxton,Corporate,40214,02-07-2017
+JB-15925,world@att.net,Joni Blumstein,Consumer,61701,03-09-2017
+JC-15340,dbindel@gmail.com,Jasper Cacioppo,Consumer,39212,17-02-2017
+JC-16105,cvrcek@me.com,Julie Creighton,Corporate,11572,10-03-2017
+JD-15895,evans@me.com,Jonathan Doherty,Corporate,94110,28-04-2017
+JD-16060,bancboy@icloud.com,Julia Dunbar,Consumer,7090,20-01-2017
+JD-16150,wildfire@yahoo.com,Justin Deggeller,Corporate,28806,24-02-2017
+JE-15475,specprog@icloud.com,Jeremy Ellison,Consumer,31907,28-05-2017
+JE-15745,wildfire@yahoo.com,Joel Eaton,Consumer,78550,27-01-2017
+JE-16165,tangsh@mac.com,Justin Ellison,Corporate,45503,09-08-2017
+JF-15355,mstrout@me.com,Jay Fein,Consumer,30318,14-05-2017
+JF-15415,mhouston@optonline.net,Jennifer Ferguson,Consumer,94521,17-02-2017
+JF-15490,louise@msn.com,Jeremy Farry,Consumer,48180,21-05-2017
+JG-15115,world@att.net,Jack Garza,Consumer,33024,30-05-2017
+JG-15805,evans@me.com,John Grady,Corporate,77095,20-01-2017
+JH-15910,fmerges@hotmail.com,Jonathan Howell,Consumer,55407,26-02-2017
+JH-15985,benits@msn.com,Joseph Holt,Consumer,71203,21-02-2017
+JK-15370,mstrout@me.com,Jay Kimmel,Consumer,22204,29-03-2017
+JK-15640,pgolle@mac.com,Jim Kriz,Home Office,53132,22-01-2017
+JK-15730,msroth@me.com,Joe Kamberova,Consumer,77036,09-01-2017
+JL-15175,leviathan@comcast.net,James Lanier,Home Office,94109,30-01-2017
+JL-15505,evans@me.com,Jeremy Lonsdale,Consumer,85023,12-02-2017
+JL-15835,horrocks@verizon.net,John Lee,Consumer,2886,17-07-2017
+JL-15850,duncand@mac.com,John Lucas,Consumer,55122,05-01-2017
+JM-15250,dbindel@gmail.com,Janet Martin,Consumer,13021,21-05-2017
+JM-15265,horrocks@verizon.net,Janet Molinari,Corporate,80219,15-05-2017
+JO-15280,lukka@yahoo.ca,Jas O'Carroll,Consumer,53132,18-05-2017
+JO-15550,parrt@aol.com,Jesus Ocampo,Home Office,33012,31-08-2017
+JP-15520,ylchang@att.net,Jeremy Pistek,Consumer,30318,19-05-2017
+JR-16210,dmouse@outlook.com,Justin Ritter,Corporate,60462,23-02-2017
+JS-15595,tangsh@mac.com,Jill Stevenson,Corporate,97206,16-04-2017
+JS-15940,mhouston@optonline.net,Joni Sundaresam,Home Office,85705,03-03-2017
+KB-16240,mhouston@optonline.net,Karen Bern,Corporate,28052,26-06-2017
+KB-16315,mstrout@me.com,Karl Braun,Consumer,45231,14-08-2017
+KB-16585,durist@aol.com,Ken Black,Corporate,85254,02-02-2017
+KB-16600,miyop@comcast.net,Ken Brennan,Corporate,10009,11-03-2017
+KC-16540,unreal@live.com,Kelly Collister,Consumer,35601,02-03-2017
+KC-16675,mastinfo@msn.com,Kimberly Carter,Corporate,33180,21-01-2017
+KD-16270,miyop@comcast.net,Karen Daniels,Consumer,94591,09-08-2017
+KD-16345,benits@msn.com,Katherine Ducich,Consumer,48185,08-07-2017
+KH-16510,benits@msn.com,Keith Herrera,Consumer,19140,13-08-2017
+KH-16630,fmerges@hotmail.com,Ken Heidel,Corporate,47150,24-01-2017
+KH-16690,bancboy@icloud.com,Kristen Hastings,Corporate,92024,03-02-2017
+KL-16555,stern@verizon.net,Kelly Lampkin,Corporate,27217,16-02-2017
+KL-16645,pgolle@mac.com,Ken Lonsdale,Consumer,6360,17-05-2017
+KM-16720,dmouse@outlook.com,Kunst Miller,Consumer,92037,10-07-2017
+KW-16435,geekgrl@comcast.net,Katrina Willman,Consumer,27511,19-01-2017
+LA-16780,specprog@icloud.com,Laura Armstrong,Corporate,94521,17-04-2017
+LC-16870,barnett@comcast.net,Lena Cacioppo,Consumer,75051,30-04-2017
+LC-16885,ozawa@me.com,Lena Creighton,Consumer,32137,19-03-2017
+LC-16930,gordonjcp@comcast.net,Linda Cazamias,Corporate,33710,13-05-2017
+LC-17140,bancboy@icloud.com,Logan Currie,Consumer,49201,23-05-2017
+LE-16810,unreal@live.com,Laurel Elliston,Consumer,44312,28-05-2017
+LF-17185,mstrout@me.com,Luke Foster,Consumer,75220,08-02-2017
+LH-16900,shaffei@sbcglobal.net,Lena Hernandez,Consumer,92105,09-05-2017
+LH-17020,payned@att.net,Lisa Hazard,Consumer,78745,25-01-2017
+LH-17155,geekgrl@comcast.net,Logan Haushalter,Consumer,48187,24-02-2017
+LL-16840,cvrcek@me.com,Lauren Leatherbury,Consumer,48185,03-03-2017
+LM-17065,miyop@comcast.net,Liz MacKendrick,Consumer,98661,30-01-2017
+LP-17080,ylchang@att.net,Liz Pelletier,Consumer,77340,26-03-2017
+LR-16915,bancboy@icloud.com,Lena Radford,Consumer,97206,21-03-2017
+LS-16945,stern@verizon.net,Linda Southworth,Corporate,85234,21-08-2017
+LS-16975,mstrout@me.com,Lindsay Shagiari,Home Office,94122,13-04-2017
+LS-17245,comdig@yahoo.com,Lynn Smith,Consumer,77340,13-02-2017
+LT-17110,mstrout@me.com,Liz Thompson,Consumer,60462,05-03-2017
+MA-17560,payned@att.net,Matt Abelman,Home Office,40214,26-01-2017
+MB-17305,louise@msn.com,Maria Bertelson,Consumer,8901,19-06-2017
+MC-17605,mhouston@optonline.net,Matt Connell,Corporate,92037,16-02-2017
+MC-17845,gordonjcp@comcast.net,Michael Chen,Consumer,77095,05-02-2017
+MC-18130,lukka@yahoo.ca,Mike Caudle,Corporate,95051,26-03-2017
+MD-17350,dcoppit@gmail.com,Maribeth Dona,Consumer,31907,02-02-2017
+ME-17725,cremonini@me.com,Max Engle,Consumer,10801,12-08-2017
+MG-17680,bsikdar@msn.com,Maureen Gastineau,Home Office,94591,28-01-2017
+MG-18145,dawnsong@hotmail.com,Mike Gockenbach,Consumer,94122,08-04-2017
+MH-17785,msroth@me.com,Maya Herman,Corporate,92691,02-05-2017
+MJ-17740,fmerges@hotmail.com,Max Jones,Consumer,33012,02-10-2016
+MK-17905,atmarks@live.com,Michael Kennedy,Corporate,90045,02-04-2017
+MK-18160,specprog@icloud.com,Mike Kennedy,Consumer,33012,06-06-2017
+MM-18280,shaffei@sbcglobal.net,Muhammed MacIntyre,Corporate,59405,01-04-2017
+MO-17800,bsikdar@msn.com,Meg O'Connel,Home Office,55122,13-02-2017
+MP-17470,dcoppit@gmail.com,Mark Packer,Home Office,60505,15-01-2017
+MP-17965,leviathan@comcast.net,Michael Paige,Corporate,48307,03-10-2016
+MR-17545,dmouse@outlook.com,Mathew Reese,Home Office,6040,11-02-2017
+MS-17365,comdig@yahoo.com,Maribeth Schnelling,Consumer,64118,28-01-2017
+MS-17830,specprog@icloud.com,Melanie Seite,Consumer,78207,09-06-2017
+MS-17980,dbindel@gmail.com,Michael Stewart,Corporate,19134,25-09-2016
+MT-18070,bancboy@icloud.com,Michelle Tran,Home Office,2886,30-09-2016
+MV-18190,unreal@live.com,Mike Vittorini,Consumer,53209,07-03-2017
+MY-17380,pgolle@mac.com,Maribeth Yedwab,Corporate,19901,22-03-2017
+MZ-17515,unreal@live.com,Mary Zewe,Corporate,43123,04-02-2017
+NB-18655,leviathan@comcast.net,Nona Balk,Corporate,19143,31-07-2017
+NF-18385,mhouston@optonline.net,Natalie Fritzler,Consumer,85204,22-03-2017
+NG-18355,world@att.net,Nat Gilpin,Corporate,94122,22-03-2017
+NG-18430,privcan@optonline.net,Nathan Gelder,Consumer,10550,06-04-2017
+NK-18490,miyop@comcast.net,Neil Knudson,Home Office,94122,20-02-2017
+NM-18445,gordonjcp@comcast.net,Nathan Mautz,Home Office,85254,30-03-2017
+NP-18325,leviathan@comcast.net,Naresj Patel,Consumer,55044,03-02-2017
+NP-18670,miyop@comcast.net,Nora Paige,Consumer,97206,04-10-2016
+NZ-18565,msroth@me.com,Nick Zandusky,Home Office,28052,19-02-2017
+ON-18715,tangsh@mac.com,Odella Nelson,Corporate,80027,29-05-2017
+OT-18730,miyop@comcast.net,Olvera Toch,Consumer,60623,03-07-2017
+PA-19060,wildfire@yahoo.com,Pete Armstrong,Home Office,21044,03-06-2017
+PB-19105,privcan@optonline.net,Peter Bühler,Consumer,90036,29-09-2016
+PB-19150,horrocks@verizon.net,Philip Brown,Consumer,91104,14-05-2017
+PC-18745,atmarks@live.com,Pamela Coakley,Corporate,43055,21-04-2017
+PF-19165,dcoppit@gmail.com,Philip Fox,Consumer,17602,26-01-2017
+PG-18820,dcoppit@gmail.com,Patrick Gardner,Consumer,92691,02-02-2017
+PH-18790,shaffei@sbcglobal.net,Patricia Hirasaki,Home Office,94110,20-01-2017
+PJ-19015,mastinfo@msn.com,Pauline Johnson,Consumer,75081,04-10-2017
+PK-18910,louise@msn.com,Paul Knutson,Home Office,95661,17-04-2017
+PK-19075,wildfire@yahoo.com,Pete Kriz,Consumer,75220,05-06-2017
+PM-19135,dinther@outlook.com,Peter McVee,Home Office,33311,09-03-2017
+PN-18775,cremonini@me.com,Parhena Norris,Home Office,1841,13-06-2017
+PO-18850,privcan@optonline.net,Patrick O'Brill,Consumer,60540,15-04-2017
+PO-18865,tfinniga@msn.com,Patrick O'Donnell,Consumer,12180,29-10-2017
+PO-19180,geekgrl@comcast.net,Philisse Overcash,Home Office,12180,25-02-2017
+PO-19195,mastinfo@msn.com,Phillina Ober,Home Office,48307,22-01-2017
+PS-18970,fmerges@hotmail.com,Paul Stevenson,Home Office,92345,04-01-2017
+RA-19285,pgolle@mac.com,Ralph Arnett,Consumer,37130,14-07-2017
+RA-19885,mhouston@optonline.net,Ruben Ausman,Corporate,2038,14-03-2017
+RA-19915,atmarks@live.com,Russell Applegate,Consumer,48227,08-02-2017
+RB-19360,mrdvt@hotmail.com,Raymond Buch,Consumer,60201,03-03-2017
+RB-19465,msroth@me.com,Rick Bensley,Home Office,47201,20-11-2017
+RB-19570,leviathan@comcast.net,Rob Beeghly,Consumer,98198,21-07-2017
+RB-19705,world@att.net,Roger Barcio,Home Office,90008,23-05-2017
+RB-19795,parrt@aol.com,Ross Baird,Home Office,98198,21-02-2017
+RC-19825,unreal@live.com,Roy Collins,Consumer,85234,01-05-2017
+RC-19960,dinther@outlook.com,Ryan Crowe,Consumer,47201,21-02-2017
+RD-19810,payned@att.net,Ross DeVincentis,Home Office,75220,11-07-2017
+RD-19900,geekgrl@comcast.net,Ruben Dartt,Consumer,22153,09-09-2017
+RF-19735,specprog@icloud.com,Roland Fjeld,Consumer,27217,03-06-2017
+RF-19840,dawnsong@hotmail.com,Roy Französisch,Consumer,75081,02-05-2017
+RH-19495,horrocks@verizon.net,Rick Hansen,Consumer,77036,10-03-2017
+RL-19615,msroth@me.com,Rob Lucas,Consumer,33801,30-04-2017
+RM-19675,louise@msn.com,Robert Marley,Home Office,90004,09-03-2017
+RO-19780,privcan@optonline.net,Rose O'Brian,Consumer,7109,30-01-2017
+RP-19390,dinther@outlook.com,Resi Pölking,Consumer,19120,30-03-2017
+RS-19765,lukka@yahoo.ca,Roland Schwarz,Corporate,21044,17-04-2017
+SA-20830,miyop@comcast.net,Sue Ann Reed,Consumer,75080,15-02-2017
+SB-20290,stern@verizon.net,Sean Braxton,Corporate,48185,28-02-2017
+SC-20050,mastinfo@msn.com,Sample Company A,Home Office,85023,27-05-2017
+SC-20095,duncand@mac.com,Sanjit Chand,Consumer,98270,11-07-2017
+SC-20305,bsikdar@msn.com,Sean Christensen,Consumer,36116,14-04-2017
+SC-20695,stern@verizon.net,Steve Chapman,Corporate,28027,13-04-2017
+SC-20725,bsikdar@msn.com,Steven Cartwright,Consumer,10011,03-05-2017
+SC-20770,dinther@outlook.com,Stewart Carmichael,Corporate,55106,23-04-2017
+SD-20485,leviathan@comcast.net,Shirley Daniels,Home Office,90036,17-03-2017
+SF-20065,ylchang@att.net,Sandra Flanagan,Consumer,22153,03-02-2017
+SF-20200,cvrcek@me.com,Sarah Foster,Consumer,28403,18-04-2017
+SF-20965,dmouse@outlook.com,Sylvia Foulston,Corporate,98115,10-01-2017
+SG-20080,mastinfo@msn.com,Sandra Glassco,Consumer,92704,18-08-2017
+SH-19975,mhouston@optonline.net,Sally Hughsby,Corporate,7601,07-07-2017
+SH-20395,durist@aol.com,Shahid Hopkins,Consumer,64055,26-03-2017
+SJ-20125,wildfire@yahoo.com,Sanjit Jacobs,Home Office,71111,08-03-2017
+SJ-20500,dawnsong@hotmail.com,Shirley Jackson,Consumer,45503,06-08-2017
+SK-19990,evans@me.com,Sally Knutson,Consumer,47201,23-01-2017
+SM-20005,dmouse@outlook.com,Sally Matthias,Consumer,11572,22-04-2017
+SN-20710,msroth@me.com,Steve Nguyen,Home Office,78550,03-03-2017
+SO-20335,geekgrl@comcast.net,Sean O'Donnell,Consumer,54302,29-04-2017
+SP-20545,mstrout@me.com,Sibella Parks,Corporate,95123,05-04-2017
+SP-20650,wildfire@yahoo.com,Stephanie Phelps,Corporate,84057,27-03-2017
+SP-20860,geekgrl@comcast.net,Sung Pak,Corporate,33801,13-02-2017
+SR-20740,duncand@mac.com,Steven Roelle,Home Office,85254,25-01-2017
+SS-20140,mrdvt@hotmail.com,Saphhira Shifley,Corporate,98198,25-07-2017
+SS-20590,stern@verizon.net,Sonia Sunley,Consumer,85254,27-12-2016
+SS-20875,atmarks@live.com,Sung Shariari,Consumer,98198,21-01-2017
+SV-20365,barnett@comcast.net,Seth Vernon,Consumer,94521,26-02-2017
+TB-21055,durist@aol.com,Ted Butterfield,Consumer,13021,20-05-2017
+TB-21520,evans@me.com,Tracy Blumstein,Consumer,90604,29-05-2017
+TB-21595,mstrout@me.com,Troy Blackwell,Consumer,47201,13-02-2017
+TD-20995,wildfire@yahoo.com,Tamara Dahlen,Consumer,39212,01-06-2017
+TG-21640,world@att.net,Trudy Glocke,Consumer,98661,19-04-2017
+TH-21235,fmerges@hotmail.com,Tiffany House,Corporate,98270,20-02-2017
+TH-21550,geekgrl@comcast.net,Tracy Hopkins,Home Office,40475,27-02-2017
+TN-21040,unreal@live.com,Tanja Norvell,Home Office,22153,10-09-2017
+TP-21130,evans@me.com,Theone Pippenger,Consumer,6360,13-03-2017
+TR-21325,fmerges@hotmail.com,Toby Ritter,Consumer,94109,17-10-2017
+TS-21205,msroth@me.com,Thomas Seio,Corporate,77036,09-03-2017
+TS-21610,geekgrl@comcast.net,Troy Staebel,Consumer,80013,07-07-2017
+TT-21070,dmouse@outlook.com,Ted Trevino,Consumer,98270,04-04-2017
+TW-21025,cremonini@me.com,Tamara Willingham,Home Office,28806,03-10-2016
+VB-21745,benits@msn.com,Victoria Brennan,Corporate,10011,21-01-2017
+VD-21670,miyop@comcast.net,Valerie Dominguez,Consumer,36116,11-05-2017
+VM-21685,bancboy@icloud.com,Valerie Mitchum,Home Office,45231,08-06-2017
+VP-21730,cvrcek@me.com,Victor Preis,Home Office,92704,30-01-2017
+VW-21775,cremonini@me.com,Victoria Wilson,Corporate,10009,02-04-2017
+XP-21865,pgolle@mac.com,Xylona Preis,Consumer,27514,20-03-2017
+YC-21895,benits@msn.com,Yoseph Carroll,Corporate,90036,17-06-2017
+ZC-21910,gordonjcp@comcast.net,Zuschuss Carroll,Consumer,33319,25-01-2017
+ZD-21925,fmerges@hotmail.com,Zuschuss Donatelli,Consumer,60201,16-04-2017
+GB-10000,john.doe@example.com,John Doe,Home Office,48185,09-03-2017
+UL-10001,jane.smith@example.com,Jane Smith,Home Office,22980,28-02-2021
+LU-10002,alice.johnson@example.com,Alice Johnson,Consumer,84057,11-06-2017
+SQ-10003,robert.brown@example.com,Robert Brown,Corporate,10550,24-10-2017
+PX-10004,michael.williams@example.com,Michael Williams,Corporate,1841,24-12-2016
